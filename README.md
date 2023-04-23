@@ -6,4 +6,4 @@
 <img src="https://github.com/Dayane1504/Desafio/blob/master/asserts/readme1.jpg?raw=true">
 <br>
 <h1>##Responsive</h1>
-<img src="https://github.com/Dayane1504/Congratulation-You-get-40-point-for-your/blob/master/asserts/readm2.jpg?raw=true">
+<img src="https://github.com/Dayane1504/Desafio/blob/master/asserts/readm2.jpg?raw=true">
