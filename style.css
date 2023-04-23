@@ -1,0 +1,150 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.div1{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #17233D;
+    margin-top: 47px;
+}
+
+a{
+    margin-left: 42px;
+    cursor: pointer;
+}
+
+   
+button{
+    Width: 124px;
+    Height: 51px;
+    box-sizing: border-box;
+    margin-left: 32px;
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px; 
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px; 
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.div3{
+    margin-top: 163px;
+    margin-left: 121px;
+    display: inline-block;
+}
+
+header{
+    display: inline-block;
+    margin-left: 84.82px;
+}
+
+h1{
+    width: 582px;
+    height: 164px;
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+    
+}
+
+p{
+    Width:493px;
+    Height:99px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+}
+
+.a2{
+    Width: 112px;
+    Height: 27px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #6FBF44;
+    margin-left: 0;
+
+}
+
+@media screen and (max-width: 900px){
+    *{
+        width: 50%;
+       height: 50%;
+
+    }
+
+    a{
+        display: none;
+    }
+
+    button{
+       position: static;
+       margin-left: 400px;
+      
+    }
+
+    .div3{  
+        margin-top: 500px;
+        position: absolute;
+        
+    }
+
+    img{
+        Width:312px;
+        Height:288px;
+    }
+
+    header{
+        margin:0px;
+        padding: 0px;
+        margin-top: 10px;
+   
+    }
+
+    h1{
+      
+        margin-left: 5px;
+        font-weight: 700;
+        font-size: 62px;
+        line-height: 82px;
+        color: #161A49;
+        text-align: center;
+        
+    }
+
+    p{
+        margin-left: 150px;
+        Width:250px;
+        Height: 165px;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 33px;
+        margin-top: 47px;
+        margin-bottom: 56px;
+        text-align: center;
+
+      
+    }
+    
+    .a2{
+        margin-left: 200px;
+        display:block;
+        Width: 112px;
+        Height: 27px;
+        font-weight: 500;
+        font-size: 18px;
+        line-height: 27px;
+        color: #6FBF44;
+        
+    
+    }
+}
